@@ -29,6 +29,7 @@ backend
 benchmarking
 Bernardino
 bjhargrave
+Bluesky
 Boelkins
 Byars
 Bzostek
@@ -184,6 +185,7 @@ README
 Rebecca
 Redbooks
 redbooks
+Reddit
 Repo
 repo
 resynthesizes
@@ -218,6 +220,7 @@ spzala
 Stanberry
 Standup
 Sudalairaj
+subreddit
 supermajority
 Tatlock
 templated
