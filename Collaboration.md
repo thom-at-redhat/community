@@ -60,9 +60,9 @@ repo.
 
 If you have questions or ideas, we have an open door policy and would love for you to join us.
 
-### [Weekly UI Team Meeting](#weekly-ui-team-meeting)
+### [Monthly UI Team Meeting](#monthly-ui-team-meeting)
 
-We host a weekly meeting on Wednesdays at 17:00 UTC
+We host community meetings on the first Wednesday of each month at 17:00 UTC
 ([time zone converter](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2024&month=5&day=28&hour=17&min=0&sec=0&p1=37&p2=43&p3=224&p4=213&p5=771&p6=248&p7=2&p8=101&iv=1800))
 to review development underway to [create and iterate upon a GUI](https://github.com/instructlab/ui) for InstructLab.
 
@@ -152,17 +152,17 @@ Follow us on [X](https://twitter.com/instructlab) for our latest Tweets. Er, Xes
 
 ### [Mastodon](#mastodon)
 
-Join the [InstructLab Mastodon server](https://mastodon.social/@InstructLab) 
+Join the [InstructLab Mastodon server](https://mastodon.social/@InstructLab)
 to find out what's going on in the InstructLab world.
 
 ### [Bluesky](#bluesky)
 
-Follow us on [Bluesky](https://bsky.app/profile/instructlab.bsky.social). 
-This channel is currently inactive, but stay tuned for our next updates. 
+Follow us on [Bluesky](https://bsky.app/profile/instructlab.bsky.social).
+This channel is currently inactive, but stay tuned for our next updates.
 
 ### [Reddit](#reddit)
 
-Check out the [InstructLab subreddit](https://reddit.com/r/instructlab)- feel free to share 
+Check out the [InstructLab subreddit](https://reddit.com/r/instructlab)- feel free to share
 your experience with using and contributing to InstructLab. Every article is welcomed!
 
 ### [YouTube](#youtube)
